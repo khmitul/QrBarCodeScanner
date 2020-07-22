@@ -1,6 +1,8 @@
 # QrBarCodeScanner
 This is an android application for extracting all types of QR code or BAR code information.
+
 Results:
+
 ![1](https://user-images.githubusercontent.com/48117812/88172589-0b23eb80-cc43-11ea-9aae-5e0439987ee7.jpg)
 ![2](https://user-images.githubusercontent.com/48117812/88172590-0bbc8200-cc43-11ea-95f7-5e9201d8f1cb.jpg)
 ![3](https://user-images.githubusercontent.com/48117812/88172592-0c551880-cc43-11ea-98ac-8edccb23d055.jpg)
